@@ -1,3 +1,1 @@
 node_modules/
-src/environment/dev.env.ts
-src/environment/prod.env.ts
