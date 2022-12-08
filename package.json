@@ -19,7 +19,7 @@
     "@types/mongoose": "^5.7.32",
     "@types/node": "^14.0.26",
     "@types/nodemon": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.9.25",
     "node": "^14.5.0",
     "ts-node": "^8.10.2",
